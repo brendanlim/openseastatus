@@ -1,0 +1,18 @@
+body {
+  background: #fff;
+  color: #222;
+  font-family: Helvetica, Sans-Serif;
+  text-align: center;
+}
+
+div.question {
+  width: 600px;
+  margin: 260px auto 0px auto;
+  font-size: 22px;
+}
+div.answer {
+  width: 600px;
+  margin: 10px auto 0px auto;
+  font-size: 22px;
+  font-weight: bold;
+}
