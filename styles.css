@@ -3,6 +3,7 @@ body {
   color: #222;
   font-family: Helvetica, Sans-Serif;
   text-align: center;
+  line-height: 1.5;
 }
 
 div.question {
@@ -15,4 +16,17 @@ div.answer {
   margin: 10px auto 0px auto;
   font-size: 22px;
   font-weight: bold;
+}
+
+div.footer {
+  width: 300px;
+  margin: 100px auto 0px auto;
+  font-size: 11px;
+  color: #ccc;
+}
+div.footer a {
+  color: #ccc;
+}
+span.tips {
+  color: #aaa;
 }
