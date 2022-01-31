@@ -6,12 +6,12 @@ body {
 }
 
 div.question {
-  width: 600px;
+  width: 400px;
   margin: 260px auto 0px auto;
   font-size: 22px;
 }
 div.answer {
-  width: 600px;
+  width: 400px;
   margin: 10px auto 0px auto;
   font-size: 22px;
   font-weight: bold;
